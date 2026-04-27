@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(-45deg, #324E7F, #70809E, #C0C3CF, #EDF3F7);
+  background: linear-gradient(-45deg, #324E7F, #70809E, #77BAD4, #EDF3F7);
   background-size: 400% 400%;
   animation: degrade 7s ease infinite;
   min-height: 100vh;
@@ -43,7 +43,7 @@ body {
 
 .carte {
   text-align: center;
-  background: #DCC3E3;
+  background: white;
   padding: 30px;
   border-radius: 30px;
   max-width: 500px;
@@ -61,7 +61,7 @@ body {
 }
 
 .p {
-  font-size: 5rem;
+  font-size: 2rem;
   margin: 0.5rem 0;
   color: black;
 }
@@ -69,7 +69,7 @@ body {
 .nom {
   font-size: 2rem;
   font-weight: 700;
-  color: white;
+  color: black;
 }
 
 h1 {
