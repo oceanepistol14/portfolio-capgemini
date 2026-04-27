@@ -43,7 +43,7 @@ body {
 
 .carte {
   text-align: center;
-  background: #70809E;
+  background: white;
   padding: 30px;
   border-radius: 30px;
   max-width: 500px;
@@ -63,13 +63,13 @@ body {
 .nom {
   font-size: 2rem;
   font-weight: 700;
-  color: #000;
+  color: #5175AD;
 }
 
 h1 {
   font-size: 2,5rem;
   margin: 0.5rem 0;
-  color: #000;
+  color: #5175AD;
 }
 
 .carte p {
@@ -90,7 +90,7 @@ h1 {
 .droite a {
   display: block;
   background: #E9F4F5;
-  color: black;
+  color: #d4af37;
   padding: 0.5rem 2rem;
   border-radius: 20px;
   text-decoration: none;
