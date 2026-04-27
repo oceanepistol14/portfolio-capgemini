@@ -43,7 +43,7 @@ body {
 
 .carte {
   text-align: center;
-  background: black;
+  background: ##E9F4F5;
   padding: 30px;
   border-radius: 30px;
   max-width: 500px;
@@ -89,8 +89,8 @@ h1 {
 
 .droite a {
   display: block;
-  background: white;
-  color: #E9F4F5;
+  background: #E9F4F5;
+  color: white;
   padding: 0.5rem 2rem;
   border-radius: 20px;
   text-decoration: none;
